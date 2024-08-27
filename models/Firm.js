@@ -31,7 +31,7 @@ const firmSchema = new mongoose.Schema({
         type:String,
     },
 
-    imeage:{
+    image:{
         type:String
     },
 
